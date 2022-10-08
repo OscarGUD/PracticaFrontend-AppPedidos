@@ -11,3 +11,4 @@ Fotos del productos deseado.
 Administrador/Dueño de la web: Inicio de sesión. 
 Cargar categorías con imagen y nombre, cargar productos con imagen, nombre, precio, estado del producto y la categoría asociada a este. 
 Dashboard para poder ver ventas de productos, ganancias y un control de inventario, productos mas comprados o mas solicitados.
+
